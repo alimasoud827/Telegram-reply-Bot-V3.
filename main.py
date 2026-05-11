@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
 
 
-TOKEN: Final = '7647463833:AAFYUM42F4TOJlaJiU-cQEzpGmKKYSYv3kI'
+TOKEN: Final = 
 BOT_USERNAME: Final = '@neakhubb_bot'
 
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
